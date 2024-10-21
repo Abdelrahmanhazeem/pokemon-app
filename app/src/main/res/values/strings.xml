@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="attack">Attack: </string>
+    <string name="defense">Defense: </string>
+    <string name="pokemon_image">pokemon image</string>
+</resources>
